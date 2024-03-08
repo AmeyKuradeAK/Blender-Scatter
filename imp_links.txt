@@ -1,0 +1,2 @@
+https://docs.blender.org/api/current/info_quickstart.html
+https://docs.blender.org/manual/en/dev/advanced/blender_directory_layout.html#blender-directory-layout
